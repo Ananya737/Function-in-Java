@@ -1,7 +1,7 @@
-int sum=0;
-// for(int i=0;i<arr.length;i++){
-//         sum+=arr[i];
-//     }
+  static int sum(int a,int b){
+        return a+b;
+    }
+    static int sum(char a,char b){   
+        return b;
 
-//     System.out.print(sum);
-//     }
+    }
